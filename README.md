@@ -1,10 +1,10 @@
-# Legacy Code Archaeologist
+# Code Analysis and Documentation Engine
 
 A GenAI-powered developer tool that explains, visualizes, and debugs old codebases using Gemini 1.5 Pro.
 
 ## Project Overview
 
-Legacy Code Archaeologist transforms static codebases into interactive knowledge graphs. Unlike standard coding assistants that only see the "current file," this solution leverages Gemini 1.5 Pro's massive 2M token context window to ingest entire repositories at once.
+Code Analysis and Documentation Engine transforms static codebases into interactive knowledge graphs. Unlike standard coding assistants that only see the "current file," this solution leverages Gemini 1.5 Pro's massive 2M token context window to ingest entire repositories at once.
 
 ### Key Features
 
@@ -34,7 +34,7 @@ Legacy Code Archaeologist transforms static codebases into interactive knowledge
 
 - Python 3.9+
 - Node.js 18+
-- Gemini API Key ([Get one here](https://makersuite.google.com/app/apikey))
+- Gemini API Key / Also can use llms
 - GitHub Token (optional, for higher rate limits)
 
 ### Backend Setup
